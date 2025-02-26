@@ -1,4 +1,3 @@
-# langchain
 langchain
 langgraph
 langgraph-sdk
@@ -12,5 +11,5 @@ tavily-python
 wikipedia
 trustcall
 langgraph-cli
-# language models
-langchain-groq
+llama-index-llms-groq
+llama-index
