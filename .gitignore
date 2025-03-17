@@ -2,3 +2,4 @@ ai-agent-langgraph-env
 .env
 3-node-graph.png
 agent_with_checkpoint.png
+rag/rag.gif
