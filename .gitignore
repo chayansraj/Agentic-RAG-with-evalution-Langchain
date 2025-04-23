@@ -6,3 +6,4 @@ agent_with_checkpoint.png
 rag/*
 !rag/setup_rag.ipynb
 income-tax-act-1961-amended-by-finance-no.-2-act-2024.pdf
+
