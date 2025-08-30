@@ -22,6 +22,7 @@ def set_api_key(var):
             raise KeyError(f'{var} not found in .env file')
         
         print(f"API key found in .env file for {var}")
+        print("API key set successfully.")
 
     except FileNotFoundError as e:
         print(f"Error: {e}")
