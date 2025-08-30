@@ -3,7 +3,7 @@ ai-agent-langgraph-env
 3-node-graph.png
 agent_with_checkpoint.png
 -- Use '*' to ignore all files in a directory and '!' to unignore specific files in that directory
-rag/*
 !rag/setup_rag.ipynb
+rag/chroma_langchain_db
 income-tax-act-1961-amended-by-finance-no.-2-act-2024.pdf
 
