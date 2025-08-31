@@ -6,6 +6,9 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
+langchain-deepseek
+langchain-mistralai
+langchain-anthropic
 notebook
 tavily-python
 wikipedia
