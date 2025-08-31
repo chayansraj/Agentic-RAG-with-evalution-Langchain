@@ -9,6 +9,7 @@ langchain-openai
 langchain-deepseek
 langchain-mistralai
 langchain-anthropic
+langchain-huggingface
 notebook
 tavily-python
 wikipedia
