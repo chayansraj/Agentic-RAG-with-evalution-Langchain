@@ -32,3 +32,4 @@ requests
 faiss-cpu
 pillow
 pytesseract
+g4f[all]
